@@ -26,8 +26,8 @@ console.log((city));*/
 //1. Except the constant variables all other types of variables are mutable
 //2. Another way to print the variables is
 
-
-console.table([roll,accemail,password,city])
+let lifegoal  // This is shows that I haven't yet defined the value here so it prints undefined 
+console.table([roll,accemail,password,city,lifegoal])
 
 /*
 Dont use Var for declaring variables from now on and use Let.
