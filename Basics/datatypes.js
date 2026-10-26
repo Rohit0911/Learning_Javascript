@@ -16,9 +16,15 @@ Undefined : A dtype which isn't defined at all
 Symbol : Its used for Uniqueness in the code 
 */
 
+let age=18
+let islogin=false
+let state=null
 
 
 
-// Objects:
+
+// Object:
 // console.log(typeof(null)) =>object
 // console.log(typeof(undefined)) =>undefined
+console.log(typeof undefined) // Undefined is undefined.
+console.log(typeof null) // Null is object 
